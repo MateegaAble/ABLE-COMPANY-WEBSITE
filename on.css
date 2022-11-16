@@ -8,7 +8,7 @@
 .contact{
     position: relative;
     min-height: 100vh;
-    padding: 50px 50px;
+    padding: 20px 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,13 +38,13 @@
     margin-top: 30px;
 }
 .container .contactinfo{
-    width: 50%;
+    width: 20%;
     display: flex;
     flex-direction: column;
 }
 .container .contactinfo .box{
     position: relative;
-    padding: 20px 0;
+    padding: 100px 0;
     display: flex;
 }
 .container .contactinfo .box .icon{
@@ -55,18 +55,18 @@
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    font-size: 22px;
+    font-size: 12px;
 }
 .container .contactinfo .box .icon .text{
     display: flex;
-    margin-left: 20px;
+    margin-left: 10px;
     font-size: 16px;
     color: #fff;
     flex-direction: column;
     font-weight: 300;
 }
 p{
-    color: red;
+    color: rgb(10, 10, 9);
 }
 .container .contactinfo .box .icon .text h3{
     font-weight: 500;
